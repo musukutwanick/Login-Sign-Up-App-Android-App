@@ -1,6 +1,8 @@
 # My App
 
-![App Logo](Photos/logo.png)
+![App Logo](<img src="assets/logo.png" alt="App Logo" width="200">)
+
+
 
 ## Description
 
