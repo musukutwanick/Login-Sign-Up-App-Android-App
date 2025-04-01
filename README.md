@@ -1,6 +1,6 @@
 # My App
 
-![App Logo](<img src="assets/logo.png" alt="App Logo" width="200">)
+![App Logo]<img src="Photos/logo.png" alt="App Logo" width="200">
 
 
 
