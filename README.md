@@ -54,8 +54,8 @@ Feel free to fork this repository and contribute! You can submit pull requests w
 
 ## Credits
 
-<a href="https://www.flaticon.com/free-icons/fingerprint-lock" title="fingerprint lock icons">Fingerprint lock icons created by sahila99 - Flaticon</a>
-<a href="https://www.pexels.com/photo/pink-and-white-background-7630061/" title="pink and white background">Pink and White Background by Eva Bronzini - Pexels.com</a>
+- <a href="https://www.flaticon.com/free-icons/fingerprint-lock" title="fingerprint lock icons">Fingerprint lock icons created by sahila99 - Flaticon</a>
+- <a href="https://www.pexels.com/photo/pink-and-white-background-7630061/" title="pink and white background">Pink and White Background by Eva Bronzini - Pexels.com</a>
 
 ## License
 
