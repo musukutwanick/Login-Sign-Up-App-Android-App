@@ -1,9 +1,8 @@
-# My App
+<p align="center">
+# Login Sign Up Page in Android Studio
 
-![App Logo]<img src="Photos/logo.png" alt="App Logo" width="200">
-
-
-
+<img src="Photos/logo.png" alt="App Logo" width="200">
+</p>
 ## Description
 
 This is a simple login and signup application built using **Java** and **XML**, with **SQLite** as the database. Users can create an account and log in securely.
@@ -20,10 +19,10 @@ This is a simple login and signup application built using **Java** and **XML**, 
 ![Login Page](Photos/login.png)
 
 ### Signup Page
-![Signup Page](Photo/signup.png)
+![Signup Page](Photos/signup.png)
 
 ### Home Page
-![Home Page](Photo/Home.png)
+![Home Page](Photos/Home.png)
 
 ## Technologies Used
 
