@@ -1,8 +1,10 @@
-<p align="center">
-# Login Sign Up Page in Android Studio
 
+<h1 align="center">Login Sign Up Page in Android Studio</h1>
+
+<p align="center">
 <img src="Photos/logo.png" alt="App Logo" width="200">
 </p>
+
 ## Description
 
 This is a simple login and signup application built using **Java** and **XML**, with **SQLite** as the database. Users can create an account and log in securely.
@@ -53,6 +55,7 @@ Feel free to fork this repository and contribute! You can submit pull requests w
 ## Credits
 
 <a href="https://www.flaticon.com/free-icons/fingerprint-lock" title="fingerprint lock icons">Fingerprint lock icons created by sahila99 - Flaticon</a>
+<a href="https://www.pexels.com/photo/pink-and-white-background-7630061/" title="pink and white background">Pink and White Background by Eva Bronzini - Pexels.com</a>
 
 ## License
 
