@@ -59,4 +59,4 @@ Feel free to fork this repository and contribute! You can submit pull requests w
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](MIT-License)
